@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NBA Squad</string>
+    <string name="no_internet_connection">İnternet Bağlantınız yok</string>
+    <string name="internet_s1">Uygulamayı kapat</string>
+    <string name="internet_s2">Wifi ayarlarına git</string>
+    <string name="internet_description">Uygulamayı kullanmak için internete bağlayın</string>
+    <string name="app_description">Bu uygulama benim favori NBA oyuncularımı listelemektedir.</string>
+
+</resources>

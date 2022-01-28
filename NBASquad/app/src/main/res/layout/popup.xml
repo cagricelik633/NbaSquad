@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/purple">
+
+    <ImageView
+        android:id="@+id/playerDetailImage"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/threehund" />
+
+    <TextView
+        android:id="@+id/playerDetailName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/thirty"
+        android:textSize="@dimen/twentytwo"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="Player Name"/>
+
+    <TextView
+        android:id="@+id/playerDetailTeam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/thirty"
+        android:textSize="@dimen/twentytwo"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="Player Team"/>
+
+    <TextView
+        android:id="@+id/playerDetailPoint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/thirty"
+        android:textSize="@dimen/twentytwo"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="Player Point"/>
+
+</LinearLayout>
