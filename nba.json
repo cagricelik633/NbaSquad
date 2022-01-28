@@ -1,0 +1,51 @@
+[
+  {
+    "id"  : 1,
+    "name": "Sun Yue",
+    "team": "Lakers",
+    "points": 6,
+    "image": "https://raw.githubusercontent.com/dogukangulyasar/demorepo/master/images/sun_yue.jpg"
+  },
+  {
+    "id"  : 2,
+    "name": "Arron Afflalo",
+    "team": "Rockets",
+    "points": 724,
+    "image": "https://raw.githubusercontent.com/dogukangulyasar/demorepo/master/images/arron_afflalo.jpg"
+  },
+  {
+    "id"  : 3,
+    "name": "Alexis Ajinca",
+    "team": "Bobcats",
+    "points": 10,
+    "image": "https://raw.githubusercontent.com/dogukangulyasar/demorepo/master/images/alexis_ajinca.jpg"
+  },
+  {
+    "id"  : 4,
+    "name": "LaMarcus Aldridge",
+    "team": "Trailblazers",
+    "points": 1393,
+    "image": "https://raw.githubusercontent.com/dogukangulyasar/demorepo/master/images/lamarcus_aldridge.jpg"
+  },
+  {
+    "id"  : 5,
+    "name": "Joe Alexander",
+    "team": "Bulls",
+    "points": 4,
+    "image": "https://raw.githubusercontent.com/dogukangulyasar/demorepo/master/images/joe_alexander.jpg"
+  },
+  {
+    "id"  : 6,
+    "name": "Malik Allen",
+    "team": "Rockets",
+    "points": 105,
+    "image": "https://raw.githubusercontent.com/dogukangulyasar/demorepo/master/images/malik_allen.jpg"
+  },
+  {
+    "id"  : 7,
+    "name": "Ray Allen",
+    "team": "Celtics",
+    "points": 1304,
+    "image": "https://raw.githubusercontent.com/dogukangulyasar/demorepo/master/images/ray_allen.jpeg"
+  }
+]
